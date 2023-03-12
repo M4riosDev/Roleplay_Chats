@@ -1,4 +1,4 @@
-Color A 
+
  ** Config **
 Put Token 
 Put Channel Id 
